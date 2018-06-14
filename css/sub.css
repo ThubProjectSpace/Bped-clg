@@ -1,0 +1,27 @@
+table{
+	table-layout: 1px;
+	display: table;
+
+	border-color: grey;
+	border-collapse: separate;
+	text-transform: bold;
+	margin-top: 30px;
+
+	vertical-align: inherit;
+
+
+}
+tr{
+	display: table-row;
+}
+thead{
+	color: #1369f4;
+
+}
+th{
+	background-color:orange;
+}
+.genric-btn.default:hover {
+  border: 1px solid #f9f9ff;
+  background:black;
+}
